@@ -1,0 +1,14 @@
+
+h1{
+    text-align: center;
+    color: #FFCC00;
+}
+.baitap{
+    background-color:#A06D21;
+  
+}
+.body{
+    background-image: url("../img/van-ly.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+}

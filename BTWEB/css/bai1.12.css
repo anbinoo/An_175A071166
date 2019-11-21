@@ -1,0 +1,18 @@
+h1{
+    color: #006600;
+    text-align: center;
+}
+div{
+    text-align: center;
+}
+table{
+    display: inline-table;
+    border-color: navy;
+    background-color: #c9e7b0;
+}
+#xanh{
+    color: #006600;
+}
+#hong{
+    color: hotpink;
+}

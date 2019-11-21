@@ -1,0 +1,26 @@
+h{ 
+    color: #cc0033;
+    font-size: 40px;
+    
+}
+body{
+    text-align: center;
+    font-family: Tahoma;
+    font-size: 12px;
+}
+table{
+    width: 100%;
+    border-color: #cc0033;
+    height: 500px;
+}
+#do{
+    color: #ffffff;
+    background-color: #cc0033;
+    font-weight: bold;
+}
+#chudo{
+    color: #cc0033;
+}
+#trai{
+    text-align: left;
+}

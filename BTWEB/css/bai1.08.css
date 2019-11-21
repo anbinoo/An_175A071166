@@ -1,0 +1,24 @@
+div{
+    background-color: #FFEDCA;
+    display: flex;
+}
+h1{
+    font-size: xx-large;
+    color: #CC6600;
+    text-align: center;
+
+}
+body{
+    background-color: #ffedca;
+}
+table{
+    border-collapse: separate;
+    width: 25%;
+}
+#mautrang{
+    background-color: #ffffff;
+}
+th{
+    background-color: #CC6600;
+    color: #ffffff;
+}

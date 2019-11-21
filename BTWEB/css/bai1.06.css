@@ -1,0 +1,37 @@
+h2{
+    text-align: center;
+    color: orange;
+    border-color:orangered;
+    border-style: double ;
+    border-width: 5px;
+  
+}
+  
+ .sp1{
+ font-size: 80px;
+ color: sienna;
+ font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+ }
+.Doan2{
+    text-align: right;
+    background-color: orangered;
+    color: peachpuff;
+    font-weight: bold;
+    font-size: 20px;
+}
+.sp2{
+    font-size: 80px;
+ color: sienna;
+ font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans
+}
+.br1{
+    background-color: tomato;
+}
+.br2{
+    background-color: tomato;
+}
+.Doan3{
+text-align: inherit ;
+
+
+}
